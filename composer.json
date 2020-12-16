@@ -1,0 +1,20 @@
+{
+    "name": "palpaka/main",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nico Müller",
+            "email": "php.alpaka@googlemail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "src/Palpaka/main.php"
+        ]
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
